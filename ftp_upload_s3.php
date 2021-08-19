@@ -115,9 +115,9 @@ if (!$hasLifeCycle) {
             ],
         ]
     );
-    echo "adding lifecycle";
+    echo "adding lifecycle\n";
 } else {
-    echo "lifecycle already added.";
+    echo "lifecycle already added.\n";
 }
 
 // Upload
